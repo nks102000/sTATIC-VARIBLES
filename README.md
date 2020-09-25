@@ -1,0 +1,1 @@
+# sTATIC-VARIBLES
